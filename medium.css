@@ -1,0 +1,489 @@
+.h1{
+font-size:500%; 
+}
+
+
+.content{
+background-size:60% 70%; 
+background-position:right  top;
+}
+
+.blue-box{
+height:6px;
+width:30px;
+background-color:#0f33ff;   
+margin-top:75px;
+}
+
+.content-footer{
+display:flex; 	
+flex-flow: row nowrap;
+align-items:flex-end; 
+width:94.8660714286%; 
+margin-top:90px;
+height:100px;
+}
+
+.logo{
+width: 30px;
+height: 28px;
+margin-left:1.775%;
+margin-top:26px;
+position: fixed;
+}
+
+.global{
+margin-left:5.6515625%;
+margin-top:30px;
+font-size:126%;
+position: fixed;
+}
+
+.nav{
+width:30px;
+height:14px;   
+margin-top:-22px;
+position: fixed;
+margin-left:93%;
+}
+
+
+
+.slide2{
+height:742px;
+width:100%; 	
+margin-top:-3%;
+}
+
+
+
+
+.hire2{
+height: 30px;
+width: 90px;
+background-color:#0f33ff;  
+padding-top:4px;
+font-size:130%;
+margin-left:33%;
+text-align:center; 
+}
+
+.selected{
+margin-left:25%;	
+margin-bottom: 140px;
+}
+
+
+.left-box{
+margin-top: -5px;
+}
+.right-box{
+margin-top: 15px;
+}
+
+.footer2{ 
+margin-top:10%;
+margin-left:30%;
+align-self:flex-start;  
+}
+
+
+
+.left-con{
+height:180px;
+width:28%;	
+background-image:url(images/work-victory1.png);
+background-repeat:no-repeat; 
+background-size:83%;
+background-position:35px 10px; 
+display:flex;
+justify-content:flex-start;
+
+}
+
+
+.center-con{
+height:230px;
+width:44%;	
+background-image:url(images/work-metiew-smith1.png);
+background-repeat:no-repeat; 
+background-size:80%;
+background-position:center 1px; 
+display:flex; 
+
+}
+.right-con{
+height:180px;
+width:28%;	
+background-image:url(images/work-alex-nowak1.png);
+background-repeat:no-repeat; 
+background-size:70%;
+background-position:0px 10px ; 
+display:flex;
+justify-content:flex-end;
+}
+
+
+
+
+
+
+#line-height2{
+height:500px; 
+width:15.390625%;
+background:#0c0c0c; 
+border-left: solid 2px #1f1f1f; 
+margin-left:7.296875%;
+margin-top:18%;
+}
+
+.li2{
+margin-bottom:10px;	
+
+}
+.li1{
+margin-top:10px;	
+margin-bottom:10px;
+color:#ffffff; 
+}
+.li3{	
+color:#ffffff; 
+margin-bottom:10px;
+}
+
+.li4{	
+color:#0f33ff; 
+margin-bottom:10px;
+}
+
+
+.namber-2{
+position:absolute; 	
+margin-top:9px;
+margin-left:1.7%;
+font-size:120%; 
+
+}
+
+.namber02-2{
+font-size:120%; 
+position:absolute; 
+margin-left:-4.5%;
+margin-top:120px;
+}
+.works{
+position:absolute;	
+margin-top:121px;
+margin-left:1.7%;
+font-size:120%; 
+}
+
+.namber03-2{
+font-size:120%; 
+position:absolute; 
+margin-left:1.7%;
+margin-top:232px;
+}
+.namber04-2{
+font-size:120%; 
+position:absolute; 
+margin-left:1.7%;
+margin-top:344px;
+}
+.namber05-2{
+font-size:120%; 
+position:absolute; 
+margin-left:1.7%;
+margin-top:458px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.slide3{
+width:100%;	
+height:940px;
+margin-top:5%;
+}
+
+.header3{
+width:100%;
+height:35px; 	
+display:flex;
+flex-flow:row nowrap;
+justify-content:center;  
+}
+.hire3{
+height: 30px;
+width: 90px;
+background-color:#0f33ff;  
+padding-top:4px;
+font-size:130%;
+text-align:center; 
+}
+
+
+.namber3{
+position:absolute; 	
+margin-top:20px;
+margin-left:1.3%;
+font-size:120%; 
+}
+
+
+
+.namber02-3{
+font-size:120%; 
+position:absolute; 
+margin-left:1.3%;
+margin-top:184px;
+}
+.about{
+position:absolute; 	
+margin-top:350px;
+margin-left:1.3%;
+font-size:120%; 
+}
+
+
+.namber03-3{
+font-size:120%; 
+position:absolute; 
+margin-left:-2.8%;
+margin-top:350px;
+}
+
+.content-box{
+display:flex;
+flex-flow:row wrap;  
+
+}
+.content3{
+margin-top:40px;
+height:720px;
+width:77%;
+background-image:url(images/about-visual.png);
+background-repeat:no-repeat;
+background-position: 85% center;
+background-size:50% 100%; 
+}
+
+.h3{
+font-size:470%; 
+font-weight:bold; 
+margin-top:60px;
+}
+
+
+.career{
+font-size:140%; 
+background-image:url(images/right-arrow.png);
+background-size:24px 24px;
+background-repeat:no-repeat; 
+background-position:center right;
+width:110px;
+margin-top:52px;
+height:30px;
+}
+
+
+.photo-box{
+display:flex; 	
+margin-top:60px;
+}
+img.photo1{
+height:80px;
+width:17%;
+border:solid 8px #0f33ff; 
+margin-right:30px;
+}
+img.photo2{
+height:80px;
+width:17%;
+border:solid 8px #0f33ff; 
+margin-right:30px;
+}
+
+
+
+img.photo3{
+height:80px;
+width:17%;
+border:solid 8px #0f33ff; 
+margin-right:30px;
+}
+.romb{
+width:12px; 
+height: 12px;
+background-color: #0f33ff;
+position: absolute;
+margin-left: 300px;
+margin-top: -500px;
+-moz-transform: rotate(45deg); /* Для Firefox */
+    -ms-transform: rotate(45deg); /* Для IE */
+    -webkit-transform: rotate(45deg); /* Для Safari, Chrome, iOS */
+    -o-transform: rotate(45deg); /* Для Opera */
+    transform: rotate(45deg);
+}
+.square1{
+width:12px; 
+height: 12px;
+background-color: #0f33ff;
+position: absolute;
+margin-left: 225px;
+margin-top: -240px;
+position: absolute;
+}
+
+
+
+.triangle{
+width:0;
+height:0;
+border-bottom:13px solid #0f33ff; 	
+border-left:8px solid transparent;
+border-right:8px solid transparent;  
+-moz-transform: rotate(45deg); /* Для Firefox */
+    -ms-transform: rotate(45deg); /* Для IE */
+    -webkit-transform: rotate(45deg); /* Для Safari, Chrome, iOS */
+    -o-transform: rotate(45deg); /* Для Opera */
+    transform: rotate(45deg);
+position: absolute;
+margin-top:-580px;
+margin-left:120px;
+}
+
+.round{
+height:27px;
+width:27px;
+border-radius:100px; 	
+background-color:#0f33ff;
+position: absolute;
+margin-top:-480px;
+margin-left:190px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.slide4{
+width:100%;	
+height:940px;
+margin-top:-5%; 
+background-image:url(images/contact-visual.png);
+background-repeat:no-repeat;
+background-position:69px 90px;
+background-size:90% 80%; 
+}
+.content4{
+height:260px;
+width:150px;  	
+margin-top: -600px;
+background-color:#0c0c0c;
+margin-left:70%;
+}
+
+a{
+text-decoration:none;	
+color:#ffffff;
+}
+
+.blank1{
+text-align:center;
+margin-top:10px;
+}
+.blank2{
+text-align:center;
+margin-top:10px;
+}
+
+.blank3{
+	text-align:center;
+margin-top:10px;
+margin-left:15px;
+}
+
+.blank4{
+text-align:center;	
+height:41px; 
+width:132px; 
+background-color:#1769ff;
+padding-top:5%;
+margin-left:20px;
+margin-top:10px;
+}
+
+
+.blank5{
+text-align:center;	
+height:41px; 
+width:132px;  
+background-color:#ea4c89; 
+padding-top:5%;
+margin-left:20px;
+margin-top:10px;
+}
+
+.blank6{
+text-align:center;	
+height:41px; 
+width:132px; 
+background-color:#0f33ff; 
+padding-top:5%;
+margin-left:20px;
+margin-top:10px;
+}
+
+
+
+
+
+label{
+width:26%; 
+height:50px;
+border:solid 2px #ffffff;
+text-align:center; 
+padding-top:12px;
+font-size:110%; 
+}
+
+
+
+.you{
+font-size:300%;
+text-align:center;  	
+margin-top:-660px;
+}
